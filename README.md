@@ -5,7 +5,7 @@
 - 🎓 Técnica de Informática para a Internet
  
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img align="center" alt="Analice-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
 <!---
