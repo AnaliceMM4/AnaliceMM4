@@ -5,8 +5,8 @@
 - 🎓 Técnica de Informática para a Internet
  
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
- </div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
 
 <!---
 AnaliceMM4/AnaliceMM4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
