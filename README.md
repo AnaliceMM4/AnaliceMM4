@@ -17,7 +17,7 @@
           
 </div>
 
-<div align="center">
+<div align="center"><br>
  <h3>Others:</h3>
  
    <img alt="Analice-Figma" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
