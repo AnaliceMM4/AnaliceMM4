@@ -28,7 +28,7 @@
    <img  alt="Analice-Heroku" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
           
 </div>
- <img  alt="Analice-Linkedin" height="60" width="50" src="https://user-images.githubusercontent.com/62485958/185765464-ca64c58d-33fe-4222-8ac6-4f596e1f8e4b.png"/>
+ <img  alt="Analice-Linkedin" height="60" width="60" src="https://user-images.githubusercontent.com/62485958/185765464-ca64c58d-33fe-4222-8ac6-4f596e1f8e4b.png"/>
 
 
 <!---
