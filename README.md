@@ -28,8 +28,12 @@
    <img  alt="Analice-Heroku" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
           
 </div>
- <img  alt="Analice-Linkedin" height="60" width="60" src="https://user-images.githubusercontent.com/62485958/185765464-ca64c58d-33fe-4222-8ac6-4f596e1f8e4b.png"/>
+<div align="center">
+ <h3>Contact:</h3><br>
 
+  <a href="https://www.linkedin.com/in/analice-moschen-71634b213/" rel="noopener">
+ <img  alt="Analice-Linkedin" height="60" width="60" src="https://user-images.githubusercontent.com/62485958/185765464-ca64c58d-33fe-4222-8ac6-4f596e1f8e4b.png" /></a>
+</div>
 
 <!---
 AnaliceMM4/AnaliceMM4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
