@@ -10,9 +10,7 @@
 <div align="center">
   <div>
     <a href="https://github.com/analiceMM4">
-     ![Github stats](https://github-readme-stats.vercel.app/api?username=AnaliceMM4)
-     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceMM$&theme=tokyonight)
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceMM4&theme=tokyonight />
     </a>
   </div>
     
