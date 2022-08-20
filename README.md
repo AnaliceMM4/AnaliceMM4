@@ -39,6 +39,10 @@
 
  <a href="https://www.instagram.com/analice.moschen/" rel="noopener">
  <img  alt="Analice-Instagram" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185765464-ca64c58d-33fe-4222-8ac6-4f596e1f8e4b.png" /></a>
+ <a href="mailto:analice.moschen16@gmail.com" rel="noopener">
+ <img  alt="Analice-Instagram" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185766824-802af9d0-e011-46e8-bad0-cd186a409fdf.png" /></a>
+ 
+
 
 </div>
 
