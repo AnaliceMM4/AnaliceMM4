@@ -28,6 +28,7 @@
    <img  alt="Analice-Heroku" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
           
 </div>
+ <img  alt="Analice-Linkedin" height="60" width="50" https://www.flaticon.com/br/icone-premium/linkedin_1377213?term=linkedin&page=1&position=13&page=1&position=13&related_id=1377213&origin=search />
 
 
 <!---
