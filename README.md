@@ -5,10 +5,10 @@
 - 🎓 Técnica de Informática para a Internet
  
  ### <h2>Languages</h2>
-<div align="center" padding="25">
+<div align="center" padding-left="20px">
  <h3>Front-End and Back-End:</h3>
     <img align="center" alt="Analice-Html" height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-    <img align="center" alt="Analice-Css" height="60" width="50"  "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />      
+    <img align="center" alt="Analice-Css" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />      
     <img align="center" alt="Analice-JS" height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
     <img align="center" alt="Analice-Java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Analice-Java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
