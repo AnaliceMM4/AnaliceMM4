@@ -5,14 +5,13 @@
 - 🎓 Técnica de Informática para a Internet
  
  ## 
- 
- ##
+
   
 <div align="center">
   <div>
     <a href="https://github.com/analiceMM4">
-     ![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
-     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+     ![Github stats](https://github-readme-stats.vercel.app/api?username=AnaliceMM4)
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceMM$&theme=tokyonight)
 
     </a>
   </div>
