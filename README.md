@@ -15,9 +15,15 @@
           
 </div>
 
-<div>
+<div align="center">
  <h3>Others:</h3>
-   <img align="center" alt="Analice-Booststrap" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+ 
+   <img alt="Analice-Figma" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          
+   <img alt="Analice-Booststrap" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+ 
+   <img alt="Analice-Spring" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+          
  <img  align="center" alt="Analice-Heroku" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
           
 </div>
