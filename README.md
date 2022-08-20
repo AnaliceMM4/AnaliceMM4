@@ -8,7 +8,7 @@
  
  <h2>Languages</h2>
 <div align="center"><br>
- <h3>Front-End and Back-End:</h3>
+ <h3>Front-End and Back-End:</h3><br>
     <img align="center" alt="Analice-Html" height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img align="center" alt="Analice-Css" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />      
     <img align="center" alt="Analice-JS" height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
@@ -17,8 +17,8 @@
           
 </div>
 
-<div align="center"><br>
- <h3>Others:</h3>
+<div align="center">
+ <h3>Others:</h3><br>
  
    <img alt="Analice-Figma" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
           
