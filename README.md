@@ -17,7 +17,10 @@
 </div>
 
 <div align="center">
-  ### <h3>Others:</h3><br>
+
+ ### 
+
+   <h3>Others:</h3><br>
  
    <img alt="Analice-Figma" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
           
@@ -27,11 +30,10 @@
    <img  alt="Analice-Heroku" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />          
 </div>
 
- ### 
-
 
 <div align="center">
-  ### <h3>Contacts:</h3><br>
+  ### 
+ <h3>Contacts:</h3><br>
 
   <a href="https://www.linkedin.com/in/analice-moschen-71634b213/" rel="noopener">
  <img  alt="Analice-Linkedin" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185766264-b1891112-9b7a-4649-826c-11dbe3db5c44.png" /></a>
