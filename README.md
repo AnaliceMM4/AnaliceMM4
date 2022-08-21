@@ -34,8 +34,9 @@
    <img alt="Analice-Booststrap" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
    <img alt="Analice-Spring" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
    <img alt="Analice-Postgres" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-   <img  alt="Analice-Heroku" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />      
- 
+   <img  alt="Analice-Heroku" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />  
+   <img alt="Analice-Git" height="60" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
 </div>
 
 
@@ -46,13 +47,12 @@
  <h3>Contacts:</h3><br>
  <a href="https://www.linkedin.com/in/analice-moschen-71634b213/" rel="noopener">
  <img  alt="Analice-Linkedin" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185765464-ca64c58d-33fe-4222-8ac6-4f596e1f8e4b.png" /></a>
-  <a href="https://www.instagram.com/analice.moschen/" rel="noopener">
- <img  alt="Analice-Instagram" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185766264-b1891112-9b7a-4649-826c-11dbe3db5c44.png" /></a>
+ 
+ <a href="https://www.instagram.com/analice.moschen/" rel="noopener">
+ <img  alt="Analice-Instagram" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185766264-b1891112-9b7a-4649-826c-11dbe3db5c44.png" /</a>
 
  <a href="mailto:analice.moschen16@gmail.com" rel="noopener">
  <img  alt="Analice-Email" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185766824-802af9d0-e011-46e8-bad0-cd186a409fdf.png" /></a>
- 
-
 
 </div>
 
