@@ -30,7 +30,7 @@
 
  ## <h3>Others:</h3><br>
  
-   <img alt="Analice-Figma" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+   <img alt="Analice-Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  
    <img alt="Analice-Booststrap" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
           
