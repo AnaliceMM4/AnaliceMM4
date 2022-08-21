@@ -1,8 +1,8 @@
 ### <h1>Olá! Eu sou a Analice Moschen </h1>
 
 - 🖌 Web Designer
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas na UTFPR-PB
-- 🎓 Técnica de Informática para a Internet
+- 📚 Systems Analysis and Development Student at UTFPR-PB
+- 🎓 Computer Technician for Internet by IFSC
  
  ## 
 
