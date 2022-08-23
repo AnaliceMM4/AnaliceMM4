@@ -57,11 +57,11 @@
  <img  alt="Analice-Email" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185766824-802af9d0-e011-46e8-bad0-cd186a409fdf.png" /></a>
 
 </div>
-
-  ![snake gif](https://github.com/AnaliceMM4/AnaliceMM4/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
+ ![snake gif](https://github.com/AnaliceMM4/AnaliceMM4/blob/output/github-contribution-grid-snake.svg)
+ 
 <!---
 AnaliceMM4/AnaliceMM4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
