@@ -57,8 +57,6 @@
  <img  alt="Analice-Email" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185766824-802af9d0-e011-46e8-bad0-cd186a409fdf.png" /></a>
 
 </div>
-  
-</div>
 
  ![snake gif](https://github.com/AnaliceMM4/AnaliceMM4/blob/output/github-contribution-grid-snake.svg)
  
