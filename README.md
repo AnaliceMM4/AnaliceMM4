@@ -4,9 +4,7 @@
 - 📚 Systems Analysis and Development Student at UTFPR-PB
 - 🎓 Computer Technician for Internet by IFSC
  
- ## 
-    
-  ##
+ ##
  
 <div align="center" style="display: inline_block">
  <h3>Front-End and Back-End:</h3><br>
