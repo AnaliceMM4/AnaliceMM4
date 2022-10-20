@@ -1,4 +1,4 @@
-### <h1>Olá! Eu sou a Analice Moschen </h1>
+### <h1>Hello! I'm Analice Moschen </h1>
 
 - 🖌 Web Designer
 - 📚 Systems Analysis and Development Student at UTFPR-PB
