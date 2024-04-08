@@ -1,6 +1,7 @@
 ### <h1>Hello! I'm Analice Moschen </h1>
 
-- 🖌 Web Designer
+- 👩‍💻 Software Developer
+- 🖌  Web Designer
 - 📚 Systems Analysis and Development Student at UTFPR-PB
 - 🎓 Computer Technician for Internet by IFSC
  
