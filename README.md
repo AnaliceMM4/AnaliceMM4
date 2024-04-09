@@ -18,7 +18,7 @@
   ##
  
 <div align="center" style="display: inline_block">
- <h3>Technologies</h3><br>
+ <h3>🚀Technologies</h3><br>
     <img align="center" alt="Analice-Html" height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img align="center" alt="Analice-Css" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />      
     <img align="center" alt="Analice-JS" height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
