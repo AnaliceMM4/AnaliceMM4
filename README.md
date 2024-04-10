@@ -38,7 +38,7 @@
  
   ##
  
- <h3>Contacts:</h3><br>
+ <h3>🌐Contacts</h3><br>
  <a href="https://www.linkedin.com/in/analice-moschen-71634b213/" rel="noopener">
  <img  alt="Analice-Linkedin" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185765464-ca64c58d-33fe-4222-8ac6-4f596e1f8e4b.png" /></a>
  
