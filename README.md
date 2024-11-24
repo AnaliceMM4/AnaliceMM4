@@ -10,8 +10,9 @@
  <div>
   <div align="">
     <a href="https://github.com/AnaliceMM4">
-     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceMM4&theme=radical" /></a>
-   
+     <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceMM4&theme=radical" /></a>
+   ![GitHub last commit](https://img.shields.io/github/last-commit/usuario/repositorio)
+
   </div>
   
   ##
