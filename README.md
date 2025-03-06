@@ -39,11 +39,11 @@
    <img  align="center"  alt="Analice-Figma" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
    <img  align="center" alt="Analice-Booststrap"  align="center"  height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
    <img align="center" alt="Analice-Tailwind"  align="center"  height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+   <img  align="center" alt="Analice-Kotlin" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
  
  <img align="center" alt="Analice-Postgres" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  <img align="center" alt="Analice-SQLServer" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
  <img align="center" alt="Analice-Mongo" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-                   
  <img  align="center" alt="Analice-Heroku" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />    
  
 </div>
