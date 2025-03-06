@@ -11,8 +11,10 @@
   <div align="">
     <a href="https://github.com/AnaliceMM4">
      <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceMM4&theme=radical" /></a>
-  <img height="300em" src="  https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy" /></a>
-  </div>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img height="300em" src="https://github-profile-trophy.vercel.app/?username=Naereen&row=1" />
+    </a>  </div>
   
   ##
  
