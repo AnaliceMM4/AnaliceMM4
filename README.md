@@ -13,8 +13,8 @@
      <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceMM4&theme=radical" /></a>
 
   <a href="https://github.com/AnaliceMM4">
-        <img height="300em" (https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) />
-    </a> 
+    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green" /></a>
+
     </div>
   
   ##
