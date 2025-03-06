@@ -10,7 +10,7 @@
  <div>
   <div align="">
     <a href="https://github.com/AnaliceMM4">
-     <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceMM4&theme=radical" style="margin-right: 20px;" /></a>
+     <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceMM4&theme=radical" style="margin-right: 100px;" /></a>
 
   <a href="https://github.com/AnaliceMM4">
     <img height="250em" src="https://github-readme-stats.vercel.app/api?username=AnaliceMM4&theme=radical" style="margin-left: 20px;" /></a>
