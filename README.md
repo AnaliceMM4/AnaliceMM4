@@ -2,6 +2,7 @@
 
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=3000&color=8A2BE2&center=true&vCenter=true&width=400&lines=Hello,+I'm+Analice&repeat=true)
+##
 
 - 👩‍💻 Software Developer
 - 🖌  Web Designer
@@ -45,22 +46,6 @@
  <img align="center" alt="Analice-SQLServer" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
  <img align="center" alt="Analice-Mongo" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
  
-</div>
-
-<div align="center" style="display: inline_block">
- 
-  ##
- 
- <h3>🌐Contacts</h3><br>
- <a href="https://www.linkedin.com/in/analice-moschen-71634b213/" rel="noopener">
- <img  alt="Analice-Linkedin" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185765464-ca64c58d-33fe-4222-8ac6-4f596e1f8e4b.png" /></a>
- 
- <a href="https://www.instagram.com/analice.moschen/" rel="noopener">
- <img  alt="Analice-Instagram" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185766264-b1891112-9b7a-4649-826c-11dbe3db5c44.png" /</a>
-
- <a href="mailto:analice.moschen16@gmail.com" rel="noopener">
- <img  alt="Analice-Email" height="50" width="50" src="https://user-images.githubusercontent.com/62485958/185766824-802af9d0-e011-46e8-bad0-cd186a409fdf.png" /></a>
-
 </div>
 
 <!--![snake gif](https://github.com/AnaliceMM4/AnaliceMM4/blob/output/github-contribution-grid-snake.svg)-->
