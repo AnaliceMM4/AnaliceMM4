@@ -1,7 +1,7 @@
 ###
 
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Olá,+Eu+sou+Analice+Moschen&repeat=true)
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hello,+I'm+am+Analice&repeat=true)
 
 - 👩‍💻 Software Developer
 - 🖌  Web Designer
