@@ -6,7 +6,7 @@
 
 - 👩‍💻 Software Developer
 - 🖌  Web Designer
-- 📚 Systems Analysis and Development Student at UTFPR-PB
+- 📚 Technologist in Systems Analysis and Development from UTFPR
 - 🎓 Computer Technician for Internet by IFSC
  
  ##
