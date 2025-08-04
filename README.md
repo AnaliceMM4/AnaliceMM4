@@ -16,12 +16,12 @@
 <!--     <a href="https://github.com/AnaliceMM4">
      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceMM4&theme=radical"/></a> -->
     <p align="center">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=analicemm4&show_icons=true&theme=tokyonight" />
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analicemm4&theme=tokyonight&layout=pie" />
+       <a href="https://github.com/AnaliceMM4">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnaliceMM4&theme=radical" />
+       </a>
+     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analicemm4&theme=tokyonight&layout=pie" />
     </p>
 
-  <a href="https://github.com/AnaliceMM4">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnaliceMM4&theme=radical" /></a>
 
 ****
  </div>
