@@ -19,9 +19,15 @@
   <a href="https://github.com/AnaliceMM4">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnaliceMM4&theme=radical" /></a>
 
- <a href="https://github.com/AnaliceMM4">
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ANALICEMM4&show_icons=true&theme=tokyonight)/></a>
+<a href="https://github.com/AnaliceMM4">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=analicemm4&show_icons=true&theme=tokyonight" />
+</a>
 
+<a href="https://github.com/AnaliceMM4">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analicemm4&layout=compact&theme=tokyonight" />
+</a>
+
+****
  </div>
   
   ##
