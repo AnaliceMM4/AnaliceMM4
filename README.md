@@ -19,7 +19,7 @@
        <a href="https://github.com/AnaliceMM4">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnaliceMM4&theme=radical" />
        </a>
-     <img height="200em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analicemm4&theme=tokyonight&layout=pie" />
+     <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analicemm4&theme=tokyonight&layout=pie" />
     </p>
 
 
