@@ -15,10 +15,12 @@
   <div align="">
 <!--     <a href="https://github.com/AnaliceMM4">
      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaliceMM4&theme=radical"/></a> -->
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaliceMM4&show_icons=true&theme=tokyonight" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analicemm4&theme=tokyonight&layout=pie" height="200">
-</div>
+<p align="center">
+  <a href="https://github.com/AnaliceMM4">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnaliceMM4&theme=radical" />
+  </a>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analicemm4&theme=tokyonight&layout=donut" />
+</p>
 
 
 ****
